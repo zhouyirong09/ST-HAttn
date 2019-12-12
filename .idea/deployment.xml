@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="61">
+    <serverData>
+      <paths name="57">
+        <serverdata>
+          <mappings>
+            <mapping deploy="peer-work/ST-Attn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="peer-work/ST-Attn/data" />
+            <excludedPath path="peer-work/ST-Attn/log" />
+            <excludedPath path="peer-work/ST-Attn/citybike-results" />
+            <excludedPath path="peer-work/ST-Attn/BJTaxi-results" />
+            <excludedPath path="peer-work/ST-Attn/out*.log" />
+            <excludedPath path="peer-work/ST-Attn/cluster-results" />
+            <excludedPath path="peer-work/ST-Attn/result-collect" />
+            <excludedPath local="true" path="result-collect" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="57 (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="peer-work/ST-Attn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="peer-work/ST-Attn/data" />
+            <excludedPath path="peer-work/ST-Attn/log" />
+            <excludedPath path="peer-work/ST-Attn/citybike-results" />
+            <excludedPath path="peer-work/ST-Attn/BJTaxi-results" />
+            <excludedPath path="peer-work/ST-Attn/out*.log" />
+            <excludedPath path="peer-work/ST-Attn/cluster-results" />
+            <excludedPath path="peer-work/ST-Attn/result-collect" />
+            <excludedPath local="true" path="result-collect" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="61">
+        <serverdata>
+          <mappings>
+            <mapping deploy="peer-work/ST-Attn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="peer-work/ST-Attn/data" />
+            <excludedPath path="peer-work/ST-Attn/log" />
+            <excludedPath path="peer-work/ST-Attn/citybike-results" />
+            <excludedPath path="peer-work/ST-Attn/BJTaxi-results" />
+            <excludedPath path="peer-work/ST-Attn/out*.log" />
+            <excludedPath path="peer-work/ST-Attn/cluster-results" />
+            <excludedPath local="true" path="result-collect" />
+            <excludedPath path="peer-work/ST-Attn/result-collect" />
+            <excludedPath path="peer-work/ST-Attn/version_backup" />
+            <excludedPath path="peer-work/ST-Attn/outlog" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
